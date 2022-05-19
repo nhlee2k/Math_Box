@@ -14,3 +14,5 @@ github error 해결법. Authentication failed for _ use a personal access token 
 7. 로컬 컴퓨터의 깃에 등록
    git config --global user.name 'id'
    git config --global user.password 'token'
+
+8 additional
